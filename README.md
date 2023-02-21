@@ -8,6 +8,5 @@
 # شرح الكود :
 رابط المقطع : https://youtu.be/CugL8aXrUVQ
 # البرنامج المستخدم 
-Using intellij idea
+ intellij idea
 java programming language 
-
